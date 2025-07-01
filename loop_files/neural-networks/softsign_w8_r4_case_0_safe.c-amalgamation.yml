@@ -1,0 +1,10 @@
+format_version: '2.0'
+
+input_files: 'softsign_w8_r4_case_0_safe.c-amalgamation.i'
+
+properties:
+  - property_file: ../properties/unreach-call.prp
+    expected_verdict: true
+options:
+  language: C
+  data_model: ILP32

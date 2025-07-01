@@ -1,0 +1,14 @@
+<!--
+This file is part of the SV-Benchmarks collection of verification tasks:
+https://gitlab.com/sosy-lab/benchmarking/sv-benchmarks
+
+SPDX-FileCopyrightText: 2023 Edoardo Manino
+
+SPDX-License-Identifier: MIT
+-->
+
+Benchmarks contributed by Edoardo Manino [1], Rafael Sá Menezes[1], Fedor Shmarov[2], and Lucas C. Cordeiro[1]
+[1] The University of Manchester
+[2] Newcastle University
+
+The benchmarks can be obtained at: https://github.com/emanino/plain_c_nn_benchmark
