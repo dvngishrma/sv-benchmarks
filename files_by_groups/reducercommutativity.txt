@@ -1,0 +1,4 @@
+sum.i
+max.i
+sep.i
+avg.i

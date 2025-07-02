@@ -1,0 +1,6 @@
+simple_array_index_value_4.i
+simple_vardep_2.c
+simple_array_index_value_3.i
+simple_array_index_value_2.i
+simple_vardep_1.c
+simple_array_index_value_1-1.i

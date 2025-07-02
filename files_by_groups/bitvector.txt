@@ -1,0 +1,15 @@
+/workdir/sv-benchmarks/loop_files/bitvector/gcd_4.c
+/workdir/sv-benchmarks/loop_files/bitvector/sum02-2.c
+/workdir/sv-benchmarks/loop_files/bitvector/gcd_2.c
+/workdir/sv-benchmarks/loop_files/bitvector/s3_clnt_3.BV.c.cil-1a.c
+/workdir/sv-benchmarks/loop_files/bitvector/gcd_3.c
+/workdir/sv-benchmarks/loop_files/bitvector/byte_add_1-1.i
+/workdir/sv-benchmarks/loop_files/bitvector/gcd_1.c
+/workdir/sv-benchmarks/loop_files/bitvector/s3_clnt_2.BV.c.cil-1a.c
+/workdir/sv-benchmarks/loop_files/bitvector/num_conversion_2.c
+/workdir/sv-benchmarks/loop_files/bitvector/num_conversion_1.c
+/workdir/sv-benchmarks/loop_files/bitvector/byte_add_2-2.i
+/workdir/sv-benchmarks/loop_files/bitvector/modulus-2.i
+/workdir/sv-benchmarks/loop_files/bitvector/interleave_bits.i
+/workdir/sv-benchmarks/loop_files/bitvector/jain_5-2.c
+/workdir/sv-benchmarks/loop_files/bitvector/parity.i

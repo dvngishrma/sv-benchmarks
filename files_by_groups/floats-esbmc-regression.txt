@@ -1,0 +1,5 @@
+/workdir/sv-benchmarks/loop_files/floats-esbmc-regression/Double_div.i
+/workdir/sv-benchmarks/loop_files/floats-esbmc-regression/digits_while.c
+/workdir/sv-benchmarks/loop_files/floats-esbmc-regression/digits_for.c
+/workdir/sv-benchmarks/loop_files/floats-esbmc-regression/nearbyint.i
+/workdir/sv-benchmarks/loop_files/floats-esbmc-regression/Float_div.i

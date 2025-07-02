@@ -1,0 +1,3 @@
+diskperf.i.cil-1.c
+parport.i.cil-2.c
+cdaudio.i.cil-2.c

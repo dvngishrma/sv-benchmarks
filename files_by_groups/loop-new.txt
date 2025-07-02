@@ -1,0 +1,8 @@
+count_by_1_variant.i
+count_by_nondet.i
+count_by_k.i
+nested-1.i
+half.i
+gauss_sum.i
+count_by_2.i
+count_by_1.i

@@ -1,0 +1,11 @@
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_of_struct_break.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_of_struct_single_elem_init.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_of_struct_ptr_monotonic.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_shadowinit.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_ptr_partial_init.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_of_struct_ptr_cond_init.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_of_struct_ptr_mul_init.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_monotonic.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_mul_init.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_of_struct_ptr_flag_init.i
+/workdir/sv-benchmarks/loop_files/array-industry-pattern/array_ptr_single_elem_init-1.i

@@ -1,0 +1,5 @@
+lcp.c
+elimination_max.c
+duplets.c
+prefixsum_rec.c
+prefixsum_iter.c

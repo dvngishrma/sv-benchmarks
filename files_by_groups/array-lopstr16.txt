@@ -1,0 +1,11 @@
+/workdir/sv-benchmarks/loop_files/array-lopstr16/base_case.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/single_elem_safe.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/partial_lesser_bound.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/scalar_loopdep.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/break-2.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/partial_lesser_bound-1.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/motivex.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/break-1.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/flag_loopdep_simple.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/sum_multi_array.i
+/workdir/sv-benchmarks/loop_files/array-lopstr16/flag_loopdep.i
