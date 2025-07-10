@@ -1,6 +1,6 @@
-nested_6.c
-nested_5.c
-nested_4.c
-nested_1.c
-nested_3.c
-nested_2.c
+./sv-benchmarks/loop_files/loop-simple/nested_6.c
+./sv-benchmarks/loop_files/loop-simple/nested_5.c
+./sv-benchmarks/loop_files/loop-simple/nested_4.c
+./sv-benchmarks/loop_files/loop-simple/nested_1.c
+./sv-benchmarks/loop_files/loop-simple/nested_3.c
+./sv-benchmarks/loop_files/loop-simple/nested_2.c

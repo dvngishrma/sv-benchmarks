@@ -1,6 +1,6 @@
-ArraysOfVariableLength2.c
-ArraysOfVariableLength6.c
-ArraysOfVariableLength5.c
-ArraysOfVariableLength4.c
-ArraysWithLenghtAtDeclaration.c
-ArraysOfVariableLength.c
+./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength2.c
+./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength6.c
+./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength5.c
+./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength4.c
+./sv-benchmarks/loop_files/ldv-memsafety/ArraysWithLenghtAtDeclaration.c
+./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength.c

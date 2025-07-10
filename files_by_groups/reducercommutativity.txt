@@ -1,4 +1,4 @@
-sum.i
-max.i
-sep.i
-avg.i
+./sv-benchmarks/loop_files/reducercommutativity/sum.i
+./sv-benchmarks/loop_files/reducercommutativity/max.i
+./sv-benchmarks/loop_files/reducercommutativity/sep.i
+./sv-benchmarks/loop_files/reducercommutativity/avg.i
