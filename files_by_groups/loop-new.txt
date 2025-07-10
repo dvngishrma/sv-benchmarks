@@ -1,8 +1,8 @@
-./sv-benchmarks/loop_files/loop-new/count_by_1_variant.i
-./sv-benchmarks/loop_files/loop-new/count_by_nondet.i
-./sv-benchmarks/loop_files/loop-new/count_by_k.i
-./sv-benchmarks/loop_files/loop-new/nested-1.i
-./sv-benchmarks/loop_files/loop-new/half.i
-./sv-benchmarks/loop_files/loop-new/gauss_sum.i
-./sv-benchmarks/loop_files/loop-new/count_by_2.i
-./sv-benchmarks/loop_files/loop-new/count_by_1.i
+./sv-benchmarks/c/loop-new/count_by_1_variant.i
+./sv-benchmarks/c/loop-new/count_by_nondet.i
+./sv-benchmarks/c/loop-new/count_by_k.i
+./sv-benchmarks/c/loop-new/nested-1.i
+./sv-benchmarks/c/loop-new/half.i
+./sv-benchmarks/c/loop-new/gauss_sum.i
+./sv-benchmarks/c/loop-new/count_by_2.i
+./sv-benchmarks/c/loop-new/count_by_1.i

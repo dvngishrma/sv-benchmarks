@@ -1,1 +1,1 @@
-./sv-benchmarks/loop_files/loop-invariants/linear-inequality-inv-a.c
+./sv-benchmarks/c/loop-invariants/linear-inequality-inv-a.c

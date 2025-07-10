@@ -1,5 +1,5 @@
-./sv-benchmarks/loop_files/verifythis/lcp.c
-./sv-benchmarks/loop_files/verifythis/elimination_max.c
-./sv-benchmarks/loop_files/verifythis/duplets.c
-./sv-benchmarks/loop_files/verifythis/prefixsum_rec.c
-./sv-benchmarks/loop_files/verifythis/prefixsum_iter.c
+./sv-benchmarks/c/verifythis/lcp.c
+./sv-benchmarks/c/verifythis/elimination_max.c
+./sv-benchmarks/c/verifythis/duplets.c
+./sv-benchmarks/c/verifythis/prefixsum_rec.c
+./sv-benchmarks/c/verifythis/prefixsum_iter.c

@@ -1,5 +1,5 @@
-./sv-benchmarks/loop_files/heap-manipulation/dll_of_dll-1.i
-./sv-benchmarks/loop_files/heap-manipulation/bubble_sort_linux-1.i
-./sv-benchmarks/loop_files/heap-manipulation/sll_to_dll_rev-2.i
-./sv-benchmarks/loop_files/heap-manipulation/tree-3.i
-./sv-benchmarks/loop_files/heap-manipulation/merge_sort-2.i
+./sv-benchmarks/c/heap-manipulation/dll_of_dll-1.i
+./sv-benchmarks/c/heap-manipulation/bubble_sort_linux-1.i
+./sv-benchmarks/c/heap-manipulation/sll_to_dll_rev-2.i
+./sv-benchmarks/c/heap-manipulation/tree-3.i
+./sv-benchmarks/c/heap-manipulation/merge_sort-2.i

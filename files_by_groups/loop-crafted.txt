@@ -1,6 +1,6 @@
-./sv-benchmarks/loop_files/loop-crafted/simple_array_index_value_4.i
-./sv-benchmarks/loop_files/loop-crafted/simple_vardep_2.c
-./sv-benchmarks/loop_files/loop-crafted/simple_array_index_value_3.i
-./sv-benchmarks/loop_files/loop-crafted/simple_array_index_value_2.i
-./sv-benchmarks/loop_files/loop-crafted/simple_vardep_1.c
-./sv-benchmarks/loop_files/loop-crafted/simple_array_index_value_1-1.i
+./sv-benchmarks/c/loop-crafted/simple_array_index_value_4.i
+./sv-benchmarks/c/loop-crafted/simple_vardep_2.c
+./sv-benchmarks/c/loop-crafted/simple_array_index_value_3.i
+./sv-benchmarks/c/loop-crafted/simple_array_index_value_2.i
+./sv-benchmarks/c/loop-crafted/simple_vardep_1.c
+./sv-benchmarks/c/loop-crafted/simple_array_index_value_1-1.i

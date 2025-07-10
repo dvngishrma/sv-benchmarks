@@ -1,4 +1,4 @@
-./sv-benchmarks/loop_files/loop-floats-scientific-comp/loop2-2.c
-./sv-benchmarks/loop_files/loop-floats-scientific-comp/loop3.c
-./sv-benchmarks/loop_files/loop-floats-scientific-comp/loop1-1.c
-./sv-benchmarks/loop_files/loop-floats-scientific-comp/loop5.i
+./sv-benchmarks/c/loop-floats-scientific-comp/loop2-2.c
+./sv-benchmarks/c/loop-floats-scientific-comp/loop3.c
+./sv-benchmarks/c/loop-floats-scientific-comp/loop1-1.c
+./sv-benchmarks/c/loop-floats-scientific-comp/loop5.i

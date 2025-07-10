@@ -1,6 +1,6 @@
-./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength2.c
-./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength6.c
-./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength5.c
-./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength4.c
-./sv-benchmarks/loop_files/ldv-memsafety/ArraysWithLenghtAtDeclaration.c
-./sv-benchmarks/loop_files/ldv-memsafety/ArraysOfVariableLength.c
+./sv-benchmarks/c/ldv-memsafety/ArraysOfVariableLength2.c
+./sv-benchmarks/c/ldv-memsafety/ArraysOfVariableLength6.c
+./sv-benchmarks/c/ldv-memsafety/ArraysOfVariableLength5.c
+./sv-benchmarks/c/ldv-memsafety/ArraysOfVariableLength4.c
+./sv-benchmarks/c/ldv-memsafety/ArraysWithLenghtAtDeclaration.c
+./sv-benchmarks/c/ldv-memsafety/ArraysOfVariableLength.c

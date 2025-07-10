@@ -1,1 +1,1 @@
-./sv-benchmarks/loop_files/sqlite/sqlite_merged_comb.i
+./sv-benchmarks/c/sqlite/sqlite_merged_comb.i
